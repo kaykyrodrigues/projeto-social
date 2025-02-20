@@ -34,10 +34,6 @@ section#cel{
     background-repeat: no-repeat;
 }
 
-section#rs{
-
-}
-
 iframe#tela{
     position: relative;
     top: 60px;
@@ -48,8 +44,6 @@ iframe#tela{
 
 section#rs{
     text-align: right;
-    transform: translate(-30px, 130px);
-    /* altera a posiçaõ do objeto */
 }
 
 section#rs img{
